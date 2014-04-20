@@ -1,0 +1,1 @@
+A repository containing anomalies, scoring, and results for th 2014 IT Olympics Cyber Defense Competition.
