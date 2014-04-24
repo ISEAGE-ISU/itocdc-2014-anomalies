@@ -1,0 +1,1 @@
+Full points if you can view and edit files in an accessible project directory from the  RDP server by following their directions.  Partial points if you can figure it out but their directions don't work or if you cannot edit files.
