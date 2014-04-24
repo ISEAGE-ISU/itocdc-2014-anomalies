@@ -1,0 +1,1 @@
+For each employee that is correctly added, award two points.
