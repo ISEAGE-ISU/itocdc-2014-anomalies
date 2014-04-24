@@ -15,7 +15,7 @@ Username	Password	Projects
 
 Jack123		Jill123		2
 
-Osterman	Dr.M@nh@tt@n	2,4
+Osterman	DrM@nh@tt@n	2,4
 
 EveyH		Vendett@	3
 
