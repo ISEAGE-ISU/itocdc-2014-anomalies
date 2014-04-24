@@ -1,0 +1,3 @@
+We found a bunch of hashed passwords stored in HashedPasswords.txt
+
+Help us crack these hashed passwords! Score a point for each hash you crack successfully.
