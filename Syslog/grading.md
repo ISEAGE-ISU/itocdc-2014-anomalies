@@ -1,0 +1,1 @@
+Remote Desktop into the team's RDP server and SSH into the Shell server.  Then follow the team's directions to get to their syslog database.  You should be able to view current events from both the RDP server and SSH server, including your login.
