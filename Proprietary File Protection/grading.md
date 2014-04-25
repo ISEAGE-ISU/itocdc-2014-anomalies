@@ -1,0 +1,1 @@
+Connect via FTP to the teams' remote desktop server - rdp.teamN.isucdc.com.  Make sure the service is working by uploading a file.  Then try to download it.  If you get an error message when you download it, or it doesn't work, give them full points.  Do not give them points if you can neither upload nor download.
