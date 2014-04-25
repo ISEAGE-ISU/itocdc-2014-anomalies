@@ -1,0 +1,1 @@
+Full points if they have a screenshot that shows the scan results.
