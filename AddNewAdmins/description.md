@@ -1,3 +1,5 @@
+Add New Admins
+--------
 Promote the following users to admin on all boxes and all services.
 You will recieve 10 pts per employee successfully promoted.
 

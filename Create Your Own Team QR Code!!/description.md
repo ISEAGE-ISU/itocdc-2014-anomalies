@@ -1,3 +1,6 @@
+Create Your Own Team QR Code!
+---------
+
 QR code is a machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by a smartphone or a camera.
 
 A fun fact about QR code is that a portion of the data can be complete gibberish, based on the level of error correction. The higher the level of error correction, the more squares that are allowed to be gibberish information.

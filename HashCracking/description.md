@@ -1,3 +1,5 @@
+Hash Cracking
+--------
 Help us crack these hashed passwords! Score two points for each hash you crack successfully.
 
 2a17a9cb4be918774e73ba83bd1c1e7d000fdd53
