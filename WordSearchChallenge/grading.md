@@ -1,1 +1,1 @@
-half a point per word (20 words, ten points)
+one point per word (20 words, 20 points)

@@ -11,7 +11,7 @@ Employees should be able to store files, run programs, and compile Java, C, C++,
 
 -On the OwnCloud server, employees should be able to upload files and be able to view and download previously uploaded files.
 
-Here is a list of users and they projects they are assigned to.(2 pts per employee successfully added)
+Here is a list of users and they projects they are assigned to.(4 pts per employee successfully added)
 
 Username	Password	Projects
 

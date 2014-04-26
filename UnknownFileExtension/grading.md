@@ -1,4 +1,4 @@
-two points per file extension correctly guessed
+eight points per file extension correctly guessed
 
 file1 : doc, docx
 

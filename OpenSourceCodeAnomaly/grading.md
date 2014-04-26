@@ -1,1 +1,1 @@
-ten pts if url is provided to their forked project and there commits are pushed.
+Twenty points if url is provided to their forked project and there commits are pushed.

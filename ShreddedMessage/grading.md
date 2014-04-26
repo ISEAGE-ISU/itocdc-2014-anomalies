@@ -1,1 +1,1 @@
-If the correct message is submitted to Iscore, award ten points.
+If the correct message is submitted to Iscore, award twenty points.
