@@ -1,0 +1,1 @@
+Try to login to the Shell, RDP, and Owncloud servers.  Give them 5 points for each server they cannot login to.
