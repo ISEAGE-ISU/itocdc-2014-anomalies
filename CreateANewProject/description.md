@@ -9,4 +9,4 @@ The new project has to be expanded to the Dev Environment, RDP Server, and the E
 
 We ask that you assign the user abha to this project so that we can grade your new project more easily.
 
-Ten pts will be awarded if the new project is created successfully and the user abha is assigned to the project correctly.
+Ten points will be awarded if the new project is created successfully and the user abha is assigned to the project correctly.

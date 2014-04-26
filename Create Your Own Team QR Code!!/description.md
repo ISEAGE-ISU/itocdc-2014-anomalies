@@ -1,6 +1,5 @@
 Create Your Own Team QR Code!
 ---------
-
 QR code is a machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by a smartphone or a camera.
 
 A fun fact about QR code is that a portion of the data can be complete gibberish, based on the level of error correction. The higher the level of error correction, the more squares that are allowed to be gibberish information.
@@ -15,7 +14,7 @@ When complete, send an email to bschir@iastate.edu with the subject as CDC QRlog
 
 These sites give good information on how to create a QR code with a logo.
 
-You will recieve ten points for completing this anomaly.
+You will recieve 40 points for completing this anomaly.
 
 http://hackaday.com/2011/08/11/how-to-put-your-logo-in-a-qr-code/
 

@@ -9,7 +9,7 @@ Employees should be able to store files, run programs, and compile Java, C, C++,
 
 -On the RDP server, employees should be able to access the project folders of projects they are assigned to. Along with project folders, all employees should be able to access the employee folder shared to all employees.
 
--On the OwnCloud server, employees should be able to upload files and be able to view+download previously uploaded files.
+-On the OwnCloud server, employees should be able to upload files and be able to view and download previously uploaded files.
 
 Here is a list of users and they projects they are assigned to.(2 pts per employee successfully added)
 
