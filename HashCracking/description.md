@@ -1,3 +1,5 @@
+Help us crack these hashed passwords! Score two points for each hash you crack successfully.
+
 2a17a9cb4be918774e73ba83bd1c1e7d000fdd53
 
 f2e2d844b3e04d61109c4dead6e121bfbd98b0a3
@@ -16,4 +18,4 @@ bbee2f446943f39efc093e0c22cc9302b849840a
 
 18c28604dd31094a8d69dae60f1bcd347f1afc5a
 
-53066aee5deb25f2805c369c101abd81
+53066aee5deb25f2805c369c101abd8

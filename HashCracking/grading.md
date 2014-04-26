@@ -1,3 +1,5 @@
+2 points per correct answer.
+
 puppies
 
 llamas
@@ -17,5 +19,3 @@ whatDoesTheFoxSay?
 superman
 
 superstar
-
-AWARD ONE POINT PER CORRECT PASSWORD
